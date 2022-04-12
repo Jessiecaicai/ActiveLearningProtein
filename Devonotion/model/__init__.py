@@ -1,0 +1,1 @@
+from .model_down_tape import ProteinBertForValuePrediction
